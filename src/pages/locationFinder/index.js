@@ -67,7 +67,7 @@ const LocationFinder = (props) => {
                 defaultZoom={10}
                 defaultCenter={DEFAULT_CENTER}
                 bootstrapURLKeys={{
-                  key: "AIzaSyDN5fZq3I60IVRCEsmcxoIsLfmEtH5VTO0",
+                  key: "",
                   libraries: ["places", "geometry"],
                 }}
                 onGoogleApiLoaded={({ map, maps }) => apiHasLoaded(map, maps)}
