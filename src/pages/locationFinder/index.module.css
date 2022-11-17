@@ -1,0 +1,17 @@
+.index{
+
+}
+.Content{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.logo{
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+}
+.MapContainer{
+    height: calc(100vh - 175px);
+    width: 100%;
+}
